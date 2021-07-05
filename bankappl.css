@@ -1,0 +1,29 @@
+.title{
+    text-align: center;
+    text-decoration: underline;
+}
+.formname{
+    text-align: center;
+}
+.bad{
+
+    text-align: right;
+}
+.subhead{
+    text-decoration: underline;
+}
+label{
+    margin-top: 10px;
+}
+input{
+    margin-top: 10px;
+}
+select{
+    margin-top: 10px;
+}
+.right{
+    text-align: right;
+}
+body{
+    background-color: cornflowerblue;
+}
